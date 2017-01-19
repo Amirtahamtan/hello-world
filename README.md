@@ -1,4 +1,5 @@
 # hello-world
 just first
 
-salam mser
+this is just a test of commit command
+
